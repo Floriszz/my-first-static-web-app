@@ -1,0 +1,9 @@
+{
+    "routes": [
+        {
+            "route": "/zealous-field-0808a7f03.1.azurestaticapps.net",
+            "redirect": "/https://gs1.nl/nieuws-en-events/nieuws/",
+            "statusCode": 301
+        }
+    ]
+}
