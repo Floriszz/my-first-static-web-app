@@ -1,7 +1,8 @@
 {
     "routes": [
         {
-            "route": "https://gs1.nl/nieuws-en-events/nieuws/",
+            "route": "/index.html",
+            "redirect": "/https://gs1.nl/nieuws-en-events/nieuws/",
             "statusCode": 301
         }
     ]
