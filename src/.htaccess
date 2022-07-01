@@ -1,5 +1,0 @@
-<IfModule mod_rewrite.c>
-RewriteEngine On
-</IfModule>
-
-RedirectMatch 301 /zealous-field-0808a7f03.1.azurestaticapps.net/ https://www.gs1.nl/data-services/koppelingen-en-services/verified-by-gs1/
