@@ -2,7 +2,7 @@
     "routes": [
         {
             "route": "/index.html",
-            "redirect": "corp.html",
+            "redirect": "/corp.html",
             "statusCode": 301
         }
     ]
