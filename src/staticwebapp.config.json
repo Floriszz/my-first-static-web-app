@@ -1,0 +1,8 @@
+{
+    "routes": [
+        {
+            "route": "https://gs1.nl/nieuws-en-events/nieuws/",
+            "statusCode": 301
+        }
+    ]
+}
